@@ -1,0 +1,193 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(69, 15, 69);
+    height: 370px;
+    
+}
+
+img{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 40px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 15px 15px 5px 5px rgb(37, 35, 35) ;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+h1{
+    display: flex;
+    justify-content: space-around;
+}
+
+main{
+    background-color: rgba(137, 70, 149, 1);
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+.act{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+    background-color: rgba(18, 155, 255, 1);
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+}
+
+.spare{
+    width: 220px;
+    height: 220px;
+    background-color: rgba(44, 43, 63, 1);
+    position: relative;
+    left: 70px;
+    bottom: 70px;
+    transform: rotate(18deg);
+}
+
+.fight{
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    background-color: rgba(0, 255, 87, 1);
+    position: relative;
+    left: 400px;
+    bottom: 620px;
+}
+
+.items{
+   width: 800px;
+   height: 120px;
+   background-color: rgba(160, 53, 53, 1);
+   position: relative;
+   bottom: 230px;
+}
+
+.spare p{
+    color: rgba(255, 0, 0, 1);
+    font-size: 20px;
+    position: relative;
+    top: 60px;
+    transform: rotate(320deg);
+}
+
+.items p{
+    font-size: 30px;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+
+.act p{
+    font-size: 20px;
+    transform: rotate(7.66deg);
+    position: relative;
+    left: 20px;
+    top: 70px;
+    color: rgba(63, 246, 59, 1);
+}
+
+.fight p{
+    font-size: 20px;
+    transform: rotate(26.26deg);
+    position: relative;
+    top: 90px;
+    left: 10px;
+}
+
+.fight p:hover {
+    color: rgb(255, 255, 255);
+}
+
+.act p:hover {
+    color: rgb(255, 0, 0);
+}
+
+.items p:hover{
+    color: rgb(255, 255, 255);
+}
+
+.spare p:hover{
+    color: rgb(68, 255, 0);
+}
+.portfolio{
+    height: 700px;
+    background-color: #A6409C;
+}
+
+.portfolio h1{
+    font-size: 80px;
+}
+
+.red{
+   height: 100px;
+   width: 250px;
+   background-color: red;
+   position: relative;
+   left: 30px;
+   top: 25px;
+}
+
+.orange{
+   height: 100px;
+   width: 250px;
+   background-color: orange;
+   position: relative;
+   left: 500px;
+   bottom: 95px;
+}
+
+.yellow{
+   height: 100px;
+   width: 250px;
+   background-color: yellow;
+   position: relative;
+   left: 265px;
+   bottom: 89px;
+}
+
+.green{
+   height: 100px;
+   width: 250px;
+   background-color: green;
+   position: relative;
+   left: 31px;
+   bottom: 80px;
+}
+
+.blue{
+   height: 100px;
+   width: 250px;
+   background-color: blue;
+   position: relative;
+   left: 500px;
+   bottom: 200px;
+}
+
+div p{
+    font-size: 20px;
+}
+
+.KONTAKT{
+    height: 200px;
+    background-color: rgba(143, 33, 126, 1);
+    margin: 0;
+}
+
+.KONTAKT h1{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+}
